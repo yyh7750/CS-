@@ -1,4 +1,4 @@
-package proxy.protectionproxy;
+package proxy.protection;
 
 import java.lang.reflect.*;
 

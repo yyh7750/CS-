@@ -1,4 +1,4 @@
-package proxy.virtualproxy;
+package proxy.virtual;
 
 import java.net.*;
 import java.awt.*;

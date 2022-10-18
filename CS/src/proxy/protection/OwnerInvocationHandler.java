@@ -1,4 +1,4 @@
-package proxy.protectionproxy;
+package proxy.protection;
 
 // InvocationHandler는 java.lang.reflect 패키지에 있으므로 import
 import java.lang.reflect.*;

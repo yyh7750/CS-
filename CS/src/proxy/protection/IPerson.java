@@ -1,4 +1,4 @@
-package proxy.protectionproxy;
+package proxy.protection;
 
 public interface IPerson {
 
